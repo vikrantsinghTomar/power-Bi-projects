@@ -14,11 +14,11 @@ This project includes a detailed sales report dashboard, providing an in-depth a
 # Visualizations and Insights
 A.Country Filters:
 
-1.Year
+1. Year
 
-2.Country
+2. Country
 
-3.Month
+3. Month
 
 # Tables and Charts:
 
